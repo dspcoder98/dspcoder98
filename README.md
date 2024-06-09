@@ -1,0 +1,5 @@
+- 👋 Hi, This is official github account of @dspcoder98
+- dspcoder.com is a platform which aids in preparing for embedded systems interview
+- We offer tailored data structure questions important to crack any interviews
+- You can practice embedded systems coding like device drivers, RTOS, bit manipulations directly on microcontrollers from your browser. 
+- Checkout www.dspcoder.com 
